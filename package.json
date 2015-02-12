@@ -1,0 +1,24 @@
+{
+  "name": "epubAutoRenamer",
+  "version": "1.0.0",
+  "description": "auto set epub creator based on folder name",
+  "main": "epubAutoRenamer.js",
+  "dependencies": {
+    "shelljs": "^0.3.0",
+    "xml2js": "^0.4.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thunderace/epubAutoRenamer.git"
+  },
+  "author": "thunderace",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thunderace/epubAutoRenamer/issues"
+  },
+  "homepage": "https://github.com/thunderace/epubAutoRenamer"
+}
